@@ -1,0 +1,26 @@
+{
+  "name": "app-lock-lock",
+  "version": "1.0.0",
+  "description": "lockapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worapon-gib/app-lock-lock.git"
+  },
+  "keywords": [
+    "yy"
+  ],
+  "author": "yy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worapon-gib/app-lock-lock/issues"
+  },
+  "homepage": "https://github.com/worapon-gib/app-lock-lock#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
